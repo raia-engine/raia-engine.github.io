@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as i,N as r}from"./chunks/framework.0e180df0.js";const f=JSON.parse('{"title":"RaiaEngineのダウンロード","description":"","frontmatter":{},"headers":[],"relativePath":"download/index.md"}'),t={name:"download/index.md"},n=r("",3),o=[n];function l(_,s,d,h,c,g){return a(),i("div",null,o)}const u=e(t,[["render",l]]);export{f as __pageData,u as default};
