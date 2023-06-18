@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as o,N as n}from"./chunks/framework.0e180df0.js";const u=JSON.parse('{"title":"インストールとセットアップ","description":"","frontmatter":{},"headers":[],"relativePath":"guide/setup.md"}'),e={name:"guide/setup.md"},l=n("",9),p=[l];function t(c,r,D,i,F,d){return a(),o("div",null,p)}const C=s(e,[["render",t]]);export{u as __pageData,C as default};
