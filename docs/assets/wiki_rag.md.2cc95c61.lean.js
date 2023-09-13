@@ -1,0 +1,1 @@
+import{_ as e,o,c,Q as d}from"./chunks/framework.bf7c2cc3.js";const N=JSON.parse('{"title":"スクリプトの文法","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/rag.md","filePath":"wiki/rag.md"}'),l={name:"wiki/rag.md"},t=d("",42),i=[t];function a(E,_,s,n,L,O){return o(),c("div",null,i)}const p=e(l,[["render",a]]);export{N as __pageData,p as default};
