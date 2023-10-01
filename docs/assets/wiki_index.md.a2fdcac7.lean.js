@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.fec3dccb.js";const u=JSON.parse('{"title":"Wiki","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/index.md","filePath":"wiki/index.md"}'),p={name:"wiki/index.md"},o=l("",13),e=[o];function t(c,r,y,E,i,d){return a(),n("div",null,e)}const C=s(p,[["render",t]]);export{u as __pageData,C as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as e,Q as l}from"./chunks/framework.fec3dccb.js";const b=JSON.parse('{"title":"ドキュメントの草稿","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/memo.md","filePath":"wiki/memo.md"}'),r={name:"wiki/memo.md"},n=l("",62),o=[n];function t(s,c,p,h,d,u){return i(),e("div",null,o)}const E=a(r,[["render",t]]);export{b as __pageData,E as default};
