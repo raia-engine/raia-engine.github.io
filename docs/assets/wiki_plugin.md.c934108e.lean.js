@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.fec3dccb.js";const u=JSON.parse('{"title":"プラグインの作成","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/plugin.md","filePath":"wiki/plugin.md"}'),p={name:"wiki/plugin.md"},o=l("",40),e=[o];function c(t,r,y,E,i,F){return n(),a("div",null,e)}const C=s(p,[["render",c]]);export{u as __pageData,C as default};
